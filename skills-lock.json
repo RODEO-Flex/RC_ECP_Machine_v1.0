@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "skills": {
+    "3d-product": {
+      "source": "nicceasy/3d-product",
+      "commit": "b7e2025cbcb33ffd9625cd21ad506343b8b6e83d",
+      "sourceType": "github",
+      "skillPath": "skills/3d-product/SKILL.md",
+      "computedHash": "6467b8a3a45953e0a23c6360fda46bd65ae2fcd812f97a74262d9a92c61597d5"
+    }
+  }
+}
